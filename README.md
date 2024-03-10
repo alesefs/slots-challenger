@@ -1,2 +1,2 @@
 # slots-challenger
-desafio de criar um jogo de slots
+desafio de criar um jogo de slots em swiftUI
